@@ -1973,6 +1973,7 @@ Edison Shek
 - [Nilotpal Pramanik](https://github.com/goodday451999)
 - [Adina Budriga](https://github.com/AdinaBudriga)
 - [Caleb Francisco](https://github.com/calebjfrancisco)
+- [Banesa Guaderrama](https://github.com/BanesaG)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
